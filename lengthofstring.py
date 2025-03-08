@@ -1,0 +1,5 @@
+name=input("Enter your name?")
+print(f"Your name is {name}")
+len1= len(name)
+print(f"The length of my name is {len1}")
+print(name.count("m"))
